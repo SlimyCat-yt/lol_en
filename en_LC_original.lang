@@ -41,14 +41,6 @@ options.visible=Vizibul
 options.hidden=Kant faind!
 
 #Not Ported yet >_<
-options.graphics=Moor aie kwaliti
-options.graphics.fancy=Fanceh Site
-options.graphics.fast=Bleh Site
-options.guiScale=Menu Skalez
-options.guiScale.auto=Awto
-options.guiScale.small=Itteh Bitteh
-options.guiScale.normal=Reglarz
-options.guiScale.large=HOOGE!
 options.advancedOpengl='vanced GL openinz?
 options.renderClouds=Teh Ceilin' Cat pillaowz
 options.farWarning1=64 bittehz Jaba recomenz!
