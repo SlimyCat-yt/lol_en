@@ -40,16 +40,13 @@ demo.help.later=KEIP KITTEN PLAIN'!
 disconnect.spam=Babbelin' Kittehz Babbeled tu much!
 options.visible=Vizibul
 options.hidden=Kant faind!
-
-#Not Ported yet >_<
-options.advancedOpengl='vanced GL openinz?
-options.renderClouds=Teh Ceilin' Cat pillaowz
 options.farWarning1=64 bittehz Jaba recomenz!
 options.farWarning2=fur LONG KITTEHZ SITE (u haz 32 bittehz)
-options.particles=Skratch Rumainz
 options.particles.all=AWL
 options.particles.decreased=Smawlur
 options.particles.minimal=Itteh bitteh
+
+#Not Ported yet >_<
 options.chat.title=Meowin' Choozinz
 options.chat.visibility=Meowin'
 options.chat.visibility.full=vizibul
@@ -57,8 +54,6 @@ options.chat.visibility.system=Teh Ceilin' Cumandz onli!
 options.chat.visibility.hidden=Kant faind!
 options.chat.color=Kolurz
 options.chat.opacity=Seethruabiliti
-options.chat.links=Spaidurweb leenkz!
-options.chat.links.prompt=Prumptz on teh leenkz!
 options.serverTextures=Commiteh Fur Parlur
 
 performance.max=Teh most FPS's!
