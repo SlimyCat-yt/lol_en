@@ -11,10 +11,6 @@ tips|jar:/lang/tips.txt
 #=====================#
 #
 #This file NEEDS TO BE IN UTF-8 FORMATTING! Do not change this file's formatting to anything else!
-#NOTE TO EDITORS: DO NOT REMOVE, RENAME OR EDIT THIS FILE, OR ANY OTHER DEFAULT LANGUAGE FILE!
-#Make a copy in "languagepacks" and set its name in the options file!
-#Make sure each language has a title and author, as seen on the top rows.
-#Splashes, credits, and tips are optional, but are really nice to have.
 #
 #How to define a splashes, credits or tips file:
 #Append "jar:" to the beginning of this line to use the Minecraft jar as the root folder for splashes/credits/tips.
