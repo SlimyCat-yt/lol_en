@@ -5,4 +5,4 @@
  # Editors
    SlimyCat
  # Suggestors
-   Hobble - Rename to lol_en
+   Hobble - Rename to lol_EN
