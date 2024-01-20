@@ -5,6 +5,5 @@ https://crowdin.com/project/minecraft-reindev-lolcat/invite?h=4ac4e52d512a00b0d2
   # Credits
  Mojang, ReIndev & NFC Team
 # Editors
-   SlimyCat
- # Suggestors
+   SlimyCat - Project Owner
    Hobble - Rename to lol_EN
