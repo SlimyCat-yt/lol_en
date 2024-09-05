@@ -6,3 +6,7 @@
    SlimyCat
  # Suggestors
    Hobble - Rename to lol_EN
+
+#I will no longer work on this
+You permission to do whatever you want with it under
+CC0
