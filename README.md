@@ -1,3 +1,5 @@
+#[Now in CC0]
+
 # Title
  LOLCAT Minecraft ReIndev Language
 # Join Translation Project 
